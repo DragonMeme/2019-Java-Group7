@@ -6,7 +6,7 @@
 * Stands on a cloud to allow ease of movement.
 ## General Mechanics
 * Crystals can only be damaged by melee.
-* 2 or less crystals must be destroyed before being able to damage the boss.
+* 2 or less crystals must be alive before being able to damage the boss.
 * Boss has 10 health points.
 * Boss can be damaged by any style.
 * Fireball is a normal attack.
