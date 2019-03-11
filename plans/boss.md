@@ -2,7 +2,7 @@
 [Click here to return to Table of Contents](https://github.com/DragonMeme/CS302_Group7_Java/blob/master/README.md)
 ## Bio
 * Name is **King Zorro**
-* Is a monkey king that holds the artifact on his staff.
+* Is a monkey king who has the stolen the artifact, now embedded on his staff.
 * Stands on a cloud to allow ease of movement.
 ## General Mechanics
 * Crystals can only be damaged by melee.
