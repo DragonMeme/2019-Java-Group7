@@ -4,7 +4,7 @@
 ### Monkey Swordsman
 * Uses melee.
 
-## Monkey Rock Thrower
+### Monkey Rock Thrower
 * Uses ranged (throws rocks).
 
 ## Secondary
