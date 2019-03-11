@@ -1,9 +1,10 @@
 # Protagonist
 [Click here to return to Table of Contents](https://github.com/DragonMeme/CS302_Group7_Java/blob/master/README.md)
 ## Biography
+* Name is **Princess Xena**.
 * A warrior princess.
 * An experienced combatant.
-* The mother tasked her to get the artiface back
+* The mother tasked her to get the artiface back from [Zorro.](https://github.com/DragonMeme/CS302_Group7_Java/blob/master/plans/boss.md)
 
 ## Attack Style
 ### Melee (Sword)
@@ -27,4 +28,13 @@
 * Strength Potion: Extends the area of effect to surround the player damaging enemies around.
 
 ### Power-downs
-* Plant Spikes: Damages player if stepped on.
+* Plant Spikes: Damages her if stepped on.
+
+## Other
+### Adventure Mode
+* Has a maximum of 3 Lives.
+* Loses one life from monsters in general.
+* Can be K.Oed by the Solar Beam (Higher Difficulty).
+
+### Survival Mode
+* Has only 1 Life.
