@@ -1,6 +1,6 @@
 # CS302_Group7_Java
 ## Table of Contents
-* Boss
+* [Boss](https://github.com/DragonMeme/CS302_Group7_Java/blob/master/plans/boss.md)
 * Main Menu
 * Monsters
 * [Protagonist](https://github.com/DragonMeme/CS302_Group7_Java/blob/master/plans/protagonist.md)
