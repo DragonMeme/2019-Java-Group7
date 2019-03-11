@@ -1,4 +1,5 @@
 # Protagonist
+[Click here to return to Table of Contents](https://github.com/DragonMeme/CS302_Group7_Java/blob/master/README.md)
 ## Biography
 * A warrior princess.
 * An experienced combatant.
